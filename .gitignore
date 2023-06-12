@@ -15,5 +15,5 @@
 !/hardware
 !/software
 /software/OS_build
-!/submodules
-/submodules/*/*
+!/submodules/busybox
+!/submodules/OpenSBI
